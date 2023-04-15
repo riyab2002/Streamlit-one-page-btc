@@ -207,8 +207,8 @@ sortedcontainers==2.4.0
 soupsieve==2.4
 sphinx-rtd-theme==0.2.4
 streamlit==1.21.0
-streamlit-authenticator==0.2.1
-streamlit-cookies-manager==0.2.0
+
+
 streamlit-lottie==0.0.3
 streamlit-option-menu==0.3.2
 systemd-python==234
