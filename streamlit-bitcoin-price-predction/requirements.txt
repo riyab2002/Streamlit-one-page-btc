@@ -179,7 +179,7 @@ python-apt==2.4.0+ubuntu1
 python-dateutil==2.8.1
 python-debian===0.1.43ubuntu1
 python-dotenv==1.0.0
-python-socks==2.2.0
+python-socks==0.7.8
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 pyxdg==0.27
