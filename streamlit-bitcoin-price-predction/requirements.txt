@@ -211,7 +211,7 @@ streamlit==1.21.0
 
 streamlit-lottie==0.0.3
 streamlit-option-menu==0.3.2
-systemd-python==234
+
 ta==0.10.2
 tablib==3.4.0
 tenacity==8.2.2
