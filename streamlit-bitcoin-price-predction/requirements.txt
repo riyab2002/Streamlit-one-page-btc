@@ -2,17 +2,6 @@
 beautifulsoup4==4.9.3
 boto3==1.26.110
 cbpro==1.1.4
-cchardet==2.1.7
-certifi==2020.6.20
-cffi==1.15.1
-chardet==3.0.4
-charset-normalizer==3.1.0
-cleo==0.8.1
-click==8.0.3
-clikit==0.6.2
-cmdstanpy==0.9.5
-colorama==0.4.4
-configobj==5.0.6
 contourpy==1.0.6
 convertdate==2.4.0
 crashtest==0.3.1
@@ -91,7 +80,6 @@ MarkupSafe==2.1.2
 marshmallow==3.19.0
 matplotlib==3.5.3
 mdurl==0.1.2
-ml-dtypes==0.0.4
 more-itertools==8.10.0
 mpld3==0.5.9
 mplfinance==0.12.9b7
