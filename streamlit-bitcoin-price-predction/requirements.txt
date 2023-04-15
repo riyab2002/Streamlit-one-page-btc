@@ -175,7 +175,7 @@ pyrsistent==0.19.3
 pysimdjson==5.0.2
 PySocks==1.7.1
 python-dateutil==2.8.1
-python-debian===0.1.43ubuntu1
+
 python-dotenv==1.0.0
 python-socks==0.7.8
 pytz==2023.3
