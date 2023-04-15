@@ -1,4 +1,4 @@
-python -3 pip install --upgrade pip
+python3 pip install --upgrade pip
 absl-py==1.4.0
 aiodns==3.0.0
 aiohttp==3.8.4
