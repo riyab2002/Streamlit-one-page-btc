@@ -4,7 +4,7 @@ from streamlit_option_menu import option_menu
 # 1=sidebar menu, 2=horizontal menu, 3=horizontal menu w/ custom menu
 EXAMPLE_NO = 1
 
-st.set_page_config(layout="wide")
+
 def streamlit_menu(example=1):
     if example == 1:
         # 1. as sidebar menu
