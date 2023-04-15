@@ -245,7 +245,7 @@ Werkzeug==2.2.3
 wordcloud==1.8.2.2
 wrapt==1.14.1
 xdg==5
-xgboost= 1.6.2
+xgboost==1.6.2
 xkit==0.0.0
 yarl==1.8.2
 yfinance==0.2.14
