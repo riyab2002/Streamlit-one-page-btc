@@ -200,7 +200,7 @@ setuptools-git==1.2
 shellescape==3.8.1
 shellingham==1.4.0
 six==1.16.0
-sklearn==0.0.post1
+
 smmap==5.0.0
 snscrape==0.3.4
 sortedcontainers==2.4.0
