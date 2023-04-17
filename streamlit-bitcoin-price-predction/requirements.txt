@@ -1,6 +1,4 @@
 
-
-apturl==0.5.2
 astunparse==1.6.3
 attrs==22.2.0
 beautifulsoup4==4.12.2
